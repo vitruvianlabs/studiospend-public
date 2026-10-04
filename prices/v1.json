@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 7,
+  "revision": 8,
   "platforms": [
     {
       "id": "runway",
@@ -535,6 +535,20 @@
           "verified": true
         }
       ]
+    },
+    {
+      "id": "ltx_studio_api",
+      "name": "LTX API",
+      "category": "Model hubs",
+      "color": "#7c3aed",
+      "connector": null,
+      "prepaid": true,
+      "parent": "ltx_studio",
+      "wallet_label": "API wallet",
+      "unit": "USD",
+      "unit_note": "Prepaid API credits; add funds and check the balance in the Developer Console (console.ltx.io)",
+      "pricing_url": "https://docs.ltx.io/pricing",
+      "plans": []
     },
     {
       "id": "invideo",
