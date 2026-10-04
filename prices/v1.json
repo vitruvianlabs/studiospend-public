@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 8,
+  "revision": 9,
   "platforms": [
     {
       "id": "runway",
@@ -1541,7 +1541,7 @@
       "name": "Descript",
       "category": "Editing",
       "color": "#3b82f6",
-      "connector": "descript",
+      "connector": null,
       "prepaid": false,
       "parent": null,
       "wallet_label": null,
