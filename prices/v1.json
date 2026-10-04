@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 10,
+  "revision": 11,
   "platforms": [
     {
       "id": "runway",
@@ -1210,7 +1210,7 @@
       "name": "Envato",
       "category": "Image",
       "color": "#82b541",
-      "connector": "envato",
+      "connector": null,
       "prepaid": false,
       "parent": null,
       "wallet_label": null,
