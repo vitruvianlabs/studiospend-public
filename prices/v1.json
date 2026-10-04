@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 6,
+  "revision": 7,
   "platforms": [
     {
       "id": "runway",
@@ -505,7 +505,7 @@
       "name": "LTX Studio",
       "category": "Video",
       "color": "#6d28d9",
-      "connector": "ltx_studio",
+      "connector": null,
       "prepaid": false,
       "parent": null,
       "wallet_label": null,
