@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 4,
+  "revision": 5,
   "platforms": [
     {
       "id": "runway",
@@ -1788,6 +1788,20 @@
           "verified": true
         }
       ]
+    },
+    {
+      "id": "threed_ai_studio_api",
+      "name": "3D AI Studio API",
+      "category": "3D",
+      "color": "#1d4ed8",
+      "connector": "threed_ai_studio_api",
+      "prepaid": true,
+      "parent": "3d_ai_studio",
+      "wallet_label": "API wallet",
+      "unit": "credits",
+      "unit_note": "Prepaid API credits; purchased credits expire after 365 days, granted ones after 31",
+      "pricing_url": "https://www.3daistudio.com/Pricing",
+      "plans": []
     },
     {
       "id": "alpha3d",
