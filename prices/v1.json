@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 9,
+  "revision": 10,
   "platforms": [
     {
       "id": "runway",
@@ -1095,7 +1095,7 @@
       "name": "Artlist",
       "category": "Image",
       "color": "#f5c518",
-      "connector": "artlist",
+      "connector": null,
       "prepaid": false,
       "parent": null,
       "wallet_label": null,
