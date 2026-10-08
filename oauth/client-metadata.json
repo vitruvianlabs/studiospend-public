@@ -1,5 +1,5 @@
 {
-  "client_id": "https://studiospend-public.pages.dev/oauth/client-metadata.json",
+  "client_id": "https://files.studiospend.com/oauth/client-metadata.json",
   "client_name": "StudioSpend",
   "client_uri": "https://github.com/vitruvianlabs/studiospend-public",
   "redirect_uris": [
