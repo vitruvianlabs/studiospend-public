@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-09",
   "revision": 1,
   "platforms": [
     {
@@ -914,6 +914,42 @@
           "annual": 63.0,
           "units_per_month": 60000.0,
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "melius",
+      "name": "Melius",
+      "category": "Image",
+      "color": "#8b5cf6",
+      "connector": null,
+      "prepaid": false,
+      "parent": null,
+      "wallet_label": null,
+      "unit": "credits",
+      "unit_note": "Creator's 20,000 credits ≈ 300 images or 14 videos (Melius's own estimate)",
+      "pricing_url": "https://melius.com/pricing",
+      "plans": [
+        {
+          "name": "Creator",
+          "monthly": 20.0,
+          "annual": 17.0,
+          "units_per_month": 20000.0,
+          "verified": false
+        },
+        {
+          "name": "Growth",
+          "monthly": 50.0,
+          "annual": 43.0,
+          "units_per_month": 50000.0,
+          "verified": false
+        },
+        {
+          "name": "Professional",
+          "monthly": 110.0,
+          "annual": 93.0,
+          "units_per_month": 110000.0,
+          "verified": false
         }
       ]
     },
